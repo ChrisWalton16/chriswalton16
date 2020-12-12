@@ -16,6 +16,8 @@
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-424242?style=for-the-badge&logo=javascript&logoColor=E9D54D)
 ![Node.JS](https://img.shields.io/badge/-Node%20JS-424242?style=for-the-badge&logo=node.js&logoColor=1ef742)
 ![MySQL](https://img.shields.io/badge/-MySQL-424242?style=for-the-badge&logo=mysql&logoColor=eb2d2d)
+![HTML](https://img.shields.io/badge/-HTML-424242?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+![MongoDB](https://img.shields.io/badge/-MongoDB-424242?style=for-the-badge&logo=mongoDB&logoColor=47A248)
 
 ### 📝 Ссылки для связи со мной:
 
