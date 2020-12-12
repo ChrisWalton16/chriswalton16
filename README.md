@@ -18,6 +18,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-424242?style=for-the-badge&logo=mysql&logoColor=eb2d2d)
 ![HTML](https://img.shields.io/badge/-HTML-424242?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-424242?style=for-the-badge&logo=mongoDB&logoColor=47A248)
+![CSS](https://img.shields.io/badge/-CSS-424242?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### 📝 Ссылки для связи со мной:
 
