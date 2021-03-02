@@ -11,7 +11,7 @@
 ![LunaBot](https://img.shields.io/badge/Luna%20Bot-Версия%3A%205.0.0-af10e8?style=for-the-badge&logo=discord&logoColor=af10e8)<br>
 ![RocketBot](https://img.shields.io/badge/Rocket%20Bot-Версия%3A%201.0.0-397f45?style=for-the-badge&logo=discord&logoColor=397f45)
 
-### 💼 На данный момент знаю вот эти языки программирования (Утилиты):
+### 💼 На данный момент знаю вот эти языки программирования (утилиты):
 
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-424242?style=for-the-badge&logo=javascript&logoColor=E9D54D)
 ![Node.JS](https://img.shields.io/badge/-Node%20JS-424242?style=for-the-badge&logo=node.js&logoColor=1ef742)
