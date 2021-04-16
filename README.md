@@ -8,7 +8,7 @@
 
 ### 🤖 Список моих ботов на Discord JS:
 
-![LunaBot](https://img.shields.io/badge/Luna%20Bot-Версия%3A%206.0.0-af10e8?style=for-the-badge&logo=discord&logoColor=af10e8)<br>
+![LunaBot](https://img.shields.io/badge/Luna%20Bot-Версия%3A%207.0.0-af10e8?style=for-the-badge&logo=discord&logoColor=af10e8)<br>
 ![RocketBot](https://img.shields.io/badge/Rocket%20Bot-Версия%3A%201.0.0-397f45?style=for-the-badge&logo=discord&logoColor=397f45)<br>
 ![FlameBot](https://img.shields.io/badge/Flame%20Bot-Версия%3A%201.5.0-fffb00?style=for-the-badge&logo=discord&logoColor=fffb00)
 
