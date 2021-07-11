@@ -8,7 +8,7 @@
 
 ### 🤖 Список моих ботов на Discord JS:
 
-![LunaBot](https://img.shields.io/badge/Luna%20Bot-Версия%3A%2010.0.0-af10e8?style=for-the-badge&logo=discord&logoColor=af10e8)<br>
+![LunaBot](https://img.shields.io/badge/Luna%20Bot-Версия%3A%2013.1.0-af10e8?style=for-the-badge&logo=discord&logoColor=af10e8)<br>
 
 ### 💼 На данный момент знаю вот эти языки программирования (утилиты):
 
